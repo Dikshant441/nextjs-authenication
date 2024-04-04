@@ -48,8 +48,7 @@ export default function signup() {
         Welcome to Nextjs Authentication
       </h2>
       <p className="text-neutral-600 text-sm max-w-sm mt-2 dark:text-neutral-300">
-        Sigup to project if you can because we don&apos;t have a login flow
-        yet
+        Sigup to project if you&apos;re new here.
       </p>
  
       <form className="my-8" onSubmit={handleSubmit}>
