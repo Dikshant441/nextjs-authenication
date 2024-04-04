@@ -15,3 +15,5 @@
 
 **2** start building the project
 - mongoose connection - dbConfig.ts
+- using UI library buils signup and login page
+- also created dynamic routing (1. profile, 2. userProfile)
