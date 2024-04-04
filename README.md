@@ -10,7 +10,8 @@
 
 **1** Set up Envioment
 - install nextjs -> npx create-next-app@latest
-- set up DB project name as -> nextjs authentication
 - Install Packages -> npm i axios bcryptjs nodemailer mongoose react-hot-toast
+- set up DB project name as -> nextjs authentication
 
 **2** start building the project
+- mongoose connection - dbConfig.ts
